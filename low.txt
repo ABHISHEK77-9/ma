@@ -1,0 +1,60 @@
+An encyclopedia or encyclopaedia (British English) is a reference work or compendium providing summaries of knowledge either from all branches or from a particular field or discipline.[1] Encyclopedias are divided into articles or entries that are often arranged alphabetically by article name[2] and sometimes by thematic categories. Encyclopedia entries are longer and more detailed than those in most dictionaries.[2] Generally speaking, unlike dictionary entries—which focus on linguistic information about words, such as their etymology, meaning, pronunciation, use, and grammatical forms—encyclopedia articles focus on factual information concerning the subject named in the article's title.[3][4][5][6]
+
+Encyclopedias have existed for around 2,000 years and have evolved considerably during that time as regards to language (written in a major international or a vernacular language), size (few or many volumes), intent (presentation of a global or a limited range of knowledge), cultural perspective (authoritative, ideological, didactic, utilitarian), authorship (qualifications, style), readership (education level, background, interests, capabilities), and the technologies available for their production and distribution (hand-written manuscripts, small or large print runs, Internet). As a valued source of reliable information compiled by experts, printed versions found a prominent place in libraries, schools and other educational institutions.
+
+The appearance of digital and open-source versions in the 21st century, such as Wikipedia, has vastly expanded the accessibility, authorship, readership, and variety of encyclopedia entries.[7]
+
+
+Contents
+1	Etymology
+1.1	Two Greek words misunderstood as one
+1.2	Sixteenth century usage of the compounded word
+1.3	The suffix -p(a)edia
+1.4	Contemporary usage
+2	Characteristics
+3	History
+3.1	Ancient times
+3.2	Middle Ages
+3.3	Renaissance
+3.4	Traditional encyclopedias
+3.5	Rise of digital and online encyclopedias
+3.6	Largest encyclopedias
+4	See also
+5	Notes
+6	References
+7	External links
+Etymology
+Indeed, the purpose of an encyclopedia is to collect knowledge disseminated around the globe; to set forth its general system to the men with whom we live, and transmit it to those who will come after us, so that the work of preceding centuries will not become useless to the centuries to come; and so that our offspring, becoming better instructed, will at the same time become more virtuous and happy, and that we should not die without having rendered a service to the human race in the future years to come.
+Diderot[8]
+Two Greek words misunderstood as one
+The word encyclopedia (encyclo|pedia) comes from the Koine Greek ἐγκύκλιος παιδεία,[9] transliterated enkyklios paedia, meaning "general education" from enkyklios (ἐγκύκλιος), meaning "circular, recurrent, required regularly, general"[10] and paedia (παιδεία), meaning "education, rearing of a child"; together, the phrase literally translates as "complete instruction" or "complete knowledge".[11] However, the two separate words were reduced to a single word due to a scribal error[12] by copyists of a Latin manuscript edition of Quintillian in 1470.[13] The copyists took this phrase to be a single Greek word, enkyklopaedia, with the same meaning, and this spurious Greek word became the New Latin word "encyclopaedia", which in turn came into English. Because of this compounded word, fifteenth century readers and since have often, and incorrectly, thought that the Roman authors Quintillian and Pliny described an ancient genre.[14]
+
+Sixteenth century usage of the compounded word
+
+Title page of Skalich's Encyclopaediæ, seu orbis disciplinarum, tam sacrarum quam prophanarum, epistemon from 1559, first clear use of the word encyclopaedia in the title.[15]
+In the sixteenth century there was a level of ambiguity as to how to use this new word. As several titles illustrate, there was not a settled notion about its spelling nor its status as a noun. For example: Jacobus Philomusus's Margarita philosophica encyclopaediam exhibens (1508); Johannes Aventinus's Encyclopedia orbisque doctrinarum, hoc est omnium artium, scientiarum, ipsius philosophiae index ac divisio; Joachimus Fortius Ringelbergius's Lucubrationes vel potius absolutissima kyklopaideia (1538, 1541); Paul Skalich's Encyclopaediæ, seu orbis disciplinarum, tam sacrarum quam prophanarum, epistemon (1559); Gregor Reisch's Margarita philosophica (1503, retitled Encyclopaedia in 1583); and Samuel Eisenmenger's Cyclopaedia Paracelsica (1585).[16]
+
+There have been two examples of the oldest vernacular use of the compounded word. In approximately 1490, Franciscus Puccius wrote a letter to Politianus thanking him for his Miscellanea, calling it an encyclopedia.[17] More commonly, François Rabelais is cited for his use of the term in Pantagruel (1532).[18][19]
+
+The suffix -p(a)edia
+Several encyclopedias have names that include the suffix -p(a)edia, to mark the text as belonging to the genre of encyclopedias. An example is Banglapedia (on matters relevant for Bangladesh).
+
+Contemporary usage
+Today in English, the word is most commonly spelled encyclopedia, though encyclopaedia (from encyclopædia) is also used in Britain.[20]
+
+Characteristics
+The modern encyclopedia was developed from the dictionary in the 18th century. Historically, both encyclopedias and dictionaries have been researched and written by well-educated, well-informed content experts, but they are significantly different in structure. A dictionary is a linguistic work which primarily focuses on alphabetical listing of words and their definitions. Synonymous words and those related by the subject matter are to be found scattered around the dictionary, giving no obvious place for in-depth treatment. Thus, a dictionary typically provides limited information, analysis or background for the word defined. While it may offer a definition, it may leave the reader lacking in understanding the meaning, significance or limitations of a term, and how the term relates to a broader field of knowledge.
+
+To address those needs, an encyclopedia article is typically not limited to simple definitions, and is not limited to defining an individual word, but provides a more extensive meaning for a subject or discipline. In addition to defining and listing synonymous terms for the topic, the article is able to treat the topic's more extensive meaning in more depth and convey the most relevant accumulated knowledge on that subject. An encyclopedia article also often includes many maps and illustrations, as well as bibliography and statistics. An encyclopedia is, theoretically, not written in order to convince, although one of its goals is indeed to convince its reader of its own veracity.
+
+Four major elements define an encyclopedia: its subject matter, its scope, its method of organization, and its method of production:
+
+Encyclopedias can be general, containing articles on topics in every field (the English-language Encyclopædia Britannica and German Brockhaus are well-known examples). General encyclopedias may contain guides on how to do a variety of things, as well as embedded dictionaries and gazetteers.[citation needed] There are also encyclopedias that cover a wide variety of topics from a particular cultural, ethnic, or national perspective, such as the Great Soviet Encyclopedia or Encyclopaedia Judaica.
+Works of encyclopedic scope aim to convey the important accumulated knowledge for their subject domain, such as an encyclopedia of medicine, philosophy or law. Works vary in the breadth of material and the depth of discussion, depending on the target audience.
+Some systematic method of organization is essential to making an encyclopedia usable for reference. There have historically been two main methods of organizing printed encyclopedias: the alphabetical method (consisting of a number of separate articles, organized in alphabetical order) and organization by hierarchical categories. The former method is today the more common, especially for general works. The fluidity of electronic media, however, allows new possibilities for multiple methods of organization of the same content. Further, electronic media offer new capabilities for search, indexing and cross reference. The epigraph from Horace on the title page of the 18th century Encyclopédie suggests the importance of the structure of an encyclopedia: "What grace may be added to commonplace matters by the power of order and connection."
+As modern multimedia and the information age have evolved, new methods have emerged for the collection, verification, summation, and presentation of information of all kinds. Projects such as Everything2, Encarta, h2g2, and Wikipedia are examples of new forms of the encyclopedia as information retrieval becomes simpler. The method of production for an encyclopedia historically has been supported in both for-profit and non-profit contexts. The Great Soviet Encyclopedia mentioned above was entirely state sponsored, while the Britannica was supported as a for-profit institution. By comparison, Wikipedia is supported by volunteers contributing in a non-profit environment under the organization of the Wikimedia Foundation.
+Some works entitled "dictionaries" are actually similar to encyclopedias, especially those concerned with a particular field (such as the Dictionary of the Middle Ages, the Dictionary of American Naval Fighting Ships, and Black's Law Dictionary). The Macquarie Dictionary, Australia's national dictionary, became an encyclopedic dictionary after its first edition in recognition of the use of proper nouns in common communication, and the words derived from such proper nouns.
+
+There are some broad differences between encyclopedias and dictionaries. Most noticeably, encyclopedia articles are longer, fuller and more thorough than entries in most general-purpose dictionaries.[2][21] There are differences in content as well. Generally speaking, dictionaries provide linguistic information about words themselves, while encyclopedias focus more on the thing for which those words stand.[3][4][5][6] Thus, while dictionary entries are inextricably fixed to the word described, encyclopedia articles can be given a different entry name. As such, dictionary entries are not fully translatable into other languages, but encyclopedia articles can be.[3]
+
+In practice, however, the distinction is not concrete, as there is no clear-cut difference between factual, "encyclopedic" information and linguistic information such as appears in dictionaries.[5][21][22] Thus encyclopedias may contain material that is also found in dictionaries, and vice versa.[22] In particular, dictionary entries often contain factual information about the thing named by the word.[21][22]
